@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Metrics](https://metrics.lecoq.io/arevalolance?template=classic&languages=1&isocalendar=1&stars=1&base.indepth=false&isocalendar.duration=full-year&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stars.limit=4&config.timezone=Asia%2FShanghai)
+![Metrics](https://metrics.lecoq.io/arevalolance?template=classic&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&stars=1&base.indepth=false&isocalendar.duration=half-year&stars.limit=4&config.timezone=Asia%2FShanghai)
