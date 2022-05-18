@@ -2305,7 +2305,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ipfs/ipfs</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Peer-to-peer hypermedia protocol</div>
@@ -2352,7 +2352,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ossu/math</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🧮  Path to a free self-taught education in Mathematics!</div>
@@ -2399,7 +2399,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>TanStack/react-table</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🤖 Headless UI for building powerful tables &amp; datagrids for TS/JS, React, Vue, Solid</div>
@@ -2452,7 +2452,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>flosse/rust-web-framework-comparison</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A comparison of some web frameworks and libs written in Rust</div>
@@ -2496,7 +2496,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 May 2022, 16:27:00 (timezone Asia/Shanghai) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 18 May 2022, 17:22:24 (timezone Asia/Shanghai) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
