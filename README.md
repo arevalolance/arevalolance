@@ -49,13 +49,14 @@ Here are some ideas to get you started:
 <p>:raising_hand: I'm looking to collaborate with Open Source.</p>
 <p>:speech_balloon: Ask me about anything related to web development and the content I post (soon™️).</p>
 
-<p>
-<h3 align="center"> Languages and Tools</h3>
-</p>
 <br />
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,java,python,go,rust,git,docker,vim,linux" />
-  </a>
-</p>
+<div>
+  <h3 align="center"> Languages and Tools</h3>
+  <br />
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=javascript,typescript,java,python,go,rust,git,docker,vim,linux" />
+    </a>
+  </p>
+</div>
 <br />
